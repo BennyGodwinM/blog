@@ -1,4 +1,8 @@
 - title: Home
+  url: https://bennygodwinm.github.io/site/
+  external: true
+  
+- title: Blog
   url: /
   external: false
 
