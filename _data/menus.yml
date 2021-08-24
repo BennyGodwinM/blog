@@ -9,7 +9,3 @@
 - title: About
   url: /about/
   external: false # set true if you using external link, see below
-
-- title: Portfolio
-  url: https://bennygodwinm.github.io/site/
-  external: true
