@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: Benny Godwin M
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+My interest in Space was sparked on December 18, 2014, by the first test flight of the GSLV MK3 launched by the Indian Space Research Organisation. It sparked my dream of being involved in Aerospace. Later, I learned how much the industry contributes to the technology that surrounds us–like the ballpoint pen, Super Glue, and scratch-resistant glass.
 
-If you have a question about him or else, just send a letter to him.
+I really want to share what I learn through my journey and try and interest or help those who may need it.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Visit my personal Website right [here](https://bennygodwinm.github.io/site/)
 
-**may u needs ✨**
+If you would like to connect or collaborate, do reach out anytime.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**Contact Me**
+
+{{ site.author.email }}
