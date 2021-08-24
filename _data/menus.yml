@@ -1,6 +1,6 @@
 - title: Home
   url: https://bennygodwinm.github.io/site/
-  external: true
+  external: false
   
 - title: Blog
   url: /
