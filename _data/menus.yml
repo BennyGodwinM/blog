@@ -1,14 +1,10 @@
-- title: Home
-  url: https://bennygodwinm.github.io/site/
-  external: false
-  
 - title: Blog
   url: /
   external: false
 
-#- title: Archive
- # url: /archive/
-  #external: false
+- title: Archive
+  url: /archive/
+  external: false
 
 - title: About
   url: /about/
